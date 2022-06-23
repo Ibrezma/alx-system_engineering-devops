@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -l
+ls -p
+ls -la
